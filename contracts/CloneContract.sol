@@ -6,4 +6,7 @@ import "hardhat/console.sol";
 
 contract CloneContract {
  
+ constructor(){
+     console.log("Test Contract");
+ }
 }
